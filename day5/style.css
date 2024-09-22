@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  justify-content: space-between;
+}
+
+img {
+  width: 250px;
+  height: 100px;
+}
+
+.child-one {
+  width: 50%;
+  padding: 20px;
+}
+
+.child-two {
+  width: 50%;
+  padding: 20px;
+}
+
+h3 {
+  margin-bottom: 10px;
+}
+
+h2 {
+  margin-bottom: 10px;
+  font-weight: 500;
+}
+
+p {
+  margin-bottom: 10px;
+}
+
+span {
+  font-weight: 900;
+  color: #000;
+}
